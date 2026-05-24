@@ -15,9 +15,9 @@ Ho Chi Minh City, Vietnam
 - LLM & AI: RAG, Semantic Similarity Search, OpenRouter API
 - Database: Supabase (PostgreSQL, Vector Embeddings)
 
-**Tools:** Git, Jupyter Notebook, VS Code
+**Tools:** Pycharm, Jupyter Notebook, Stata, Figma 
 
-**Soft Skills:** Problem-solving, Attention to Detail, Collaboration, Communication
+**Soft Skills:** Problem-solving, Research Skill, Collaboration, Communication
 
 ---
 
@@ -51,6 +51,4 @@ Ho Chi Minh City, Vietnam
 
 ## Contact
 
-- GitHub: github.com/yourusername
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourname
+Email: dphuongthaoo101205@gmail.com
