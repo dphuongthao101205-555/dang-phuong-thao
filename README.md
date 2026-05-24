@@ -6,21 +6,6 @@ Ho Chi Minh City, Vietnam
 
 ---
 
-## Technical Skills
-
-- Programming Languages: Python, SQL
-- Machine Learning: Scikit-learn, XGBoost, Random Forest, CatBoost, SVD, Collaborative Filtering, Content-Based Filtering
-- Web Scraping: Selenium, BeautifulSoup, n8n
-- Data Processing: Pandas, NumPy, Geospatial Analysis (Haversine)
-- LLM & AI: RAG, Semantic Similarity Search, OpenRouter API
-- Database: Supabase (PostgreSQL, Vector Embeddings)
-
-**Tools:** Pycharm, Jupyter Notebook, Stata, Figma 
-
-**Soft Skills:** Problem-solving, Research Skill, Collaboration, Communication
-
----
-
 ## Projects
 
 ### 1. Real Estate Analytics & Price Prediction in Ho Chi Minh City
