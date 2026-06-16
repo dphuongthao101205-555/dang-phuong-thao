@@ -11,7 +11,7 @@ Ho Chi Minh City, Vietnam
 ### 1. Real Estate Analytics & Price Prediction in Ho Chi Minh City
 *May 2026 | Python, Selenium, Random Forest, XGBoost, CatBoost, Geospatial Analysis*
 
-- Built web crawlers (Selenium, BeautifulSoup) to collect 200+ real estate projects, listing posts, and POI data (schools, hospitals, parks, metro stations) from batdongsan.com.vn
+- Built web crawlers (Selenium, BeautifulSoup) to collect 150+ real estate projects, listing posts, and POI data (schools, hospitals, parks, metro stations) from batdongsan.com.vn
 - Calculated distance-based features (CBD, metro, airports, schools, hospitals) using Haversine formula
 - Collaborated on building and evaluating pricing models (XGBoost, Random Forest, CatBoost), contributing to data preprocessing and feature selection
 
