@@ -1,7 +1,5 @@
 # Dang Phuong Thao
 
-**Quantitative Research Intern**
-
 Ho Chi Minh City, Vietnam
 
 ---
